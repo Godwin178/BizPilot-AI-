@@ -1,6 +1,8 @@
 # BizPilot AI
 
-BizPilot AI is a business management SaaS with a responsive dashboard, PostgreSQL-backed authenticated API, AI assistant integration, document workspace, CRM, tasks, finance, marketing tools, subscriptions, email verification, password reset, PDF export, and admin controls.
+BizPilot AI is an AI-powered business management platform designed to help businesses streamline operations, automate workflows, manage customers, monitor performance, and make smarter decisions. It brings AI assistance, business analytics, administrative tools, and payment integrations together in one platform.
+
+The application includes a responsive dashboard, PostgreSQL-backed authenticated API, AI assistant integration, document workspace, CRM, tasks, finance, marketing tools, subscriptions, email verification, password reset, PDF export, and admin controls.
 
 ## Run
 
