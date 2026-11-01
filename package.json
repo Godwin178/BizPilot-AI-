@@ -1,0 +1,16 @@
+{
+  "name": "bizpilot-ai",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test",
+    "migrate": "node -e \"import('./db.js').then(({migrate}) => migrate())\""
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.16",
+    "pdfkit": "^0.15.0",
+    "pg": "^8.13.1"
+  }
+}
