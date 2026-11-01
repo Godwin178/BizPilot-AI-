@@ -10,7 +10,7 @@
     "migrate": "node -e \"import('./db.js').then(({migrate}) => migrate())\""
   },
   "engines": {
-    "node": ">=20"
+    "node": "24.x"
   },
   "dependencies": {
     "nodemailer": "^6.9.16",
